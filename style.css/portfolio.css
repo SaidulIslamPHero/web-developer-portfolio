@@ -146,13 +146,7 @@ main section {
     padding: 30px 150px;
 }
 
-
-/* rasume collum title */
-
-
-.resume-column-title {
-    color: #474747;
-    font-size: 30px;
-    font-weight: 700;
+.download-cv{
+    text-align: center;
+    margin: 30px;;
 }
-/*  */
